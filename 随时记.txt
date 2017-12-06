@@ -1,0 +1,25 @@
+
+getElementsByTagName();
+getElementsByClassName();
+  调用者：document和元素;     
+  参数:字符串;（标签名，小写）
+  功能：获取元素节点伪数组；   
+  返回值：如果有就返回伪数组;没有就返回[];只有一个也是数组
+
+用的最多byId/TagName();  (一个获取单个元素，一个获取伪数组)
+
+
+沙箱 匿名函数自调用 
+闭包 函数作为返回值
+回调函数   函数作为返回值传递给另一个函数做参数
+
+
+
+
+
+C:\wamp\Apache24\conf\extra\httpd-vhosts.conf
+C:\Windows\System32\drivers\etc\hosts
+
+
+
+数据持久化：浏览器保存用户名
